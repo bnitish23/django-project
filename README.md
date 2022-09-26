@@ -1,2 +1,2 @@
 # django-project
-this is django project of how to add tables in databse using django
+this is django projects of how to add tables in database using django forms 
